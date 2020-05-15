@@ -1,5 +1,5 @@
 # Privacy-Policy
-Privacy Policy: FirstName LastName built the Heart Heist app as a Free app. This SERVICE is provided by FirstName LastName at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Privacy Policy: Jessie Blanc built the Heart Heist app as a Free app. This SERVICE is provided by FirstName LastName at no cost and is intended for use as is.  This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 App Scope: This app collects no data, requires no permissions, and makes no use of cookies nor any web services. It is a wholly local app to your IOS device.
 
